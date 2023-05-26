@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(to left, rgb(255 255 255 / 95%), rgb(255 255 255 / 95%)), url(/images/fon.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    margin: 15px 0 15px 0;
+}
+.container-logo img {
+    max-width: 100px;
+    width: 100%;
+}
